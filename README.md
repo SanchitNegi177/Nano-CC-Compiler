@@ -42,13 +42,13 @@ nano-cc-compiler/
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone <https://github.com/SanchitNegi177/Nano-CC-Compiler.git>
    cd nano-cc-compiler
    ```
 
 2. Install dependencies:
    ```
-   npm run install
+   npm run install:all
    ```
    This will install dependencies for both client and server.
 
